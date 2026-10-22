@@ -1,0 +1,7 @@
+{
+  "name": "sre-metrics",
+  "version": "1.0.0",
+  "description": "Internal metrics helper for runbook checks.",
+  "main": "index.js",
+  "license": "MIT"
+}
